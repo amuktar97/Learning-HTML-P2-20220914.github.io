@@ -1,2 +1,2 @@
-# Learninh-HTML-P2-20220914.github.io
+# Learning-HTML-P2-20220914.github.io
 Lessons
